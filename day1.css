@@ -1,0 +1,18 @@
+h1{
+background-color: black;
+color: wheat;
+}
+body{
+    background-color: rgb(70, 57, 42);
+}
+button{
+    color: red;
+    background-color: black;
+}
+input{
+    color: pink;
+    background-color: rgb(204, 31, 132);
+}
+p{
+color: aqua;
+}

@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(80, 58, 28);
+}
+#one{
+    color: rgb(224, 18, 63);
+}
+/*  grouping the elements */
+#t,#one{
+    font-size: 24;
+    color:  rgb(24, 112, 24);
+}
+.g{
+    font-size: 10;
+    color: rgb(219, 117, 160);
+}
+.highlite{
+    color: yellow;
+
+}
+.highliteone{
+    color: gray;
+     font-style: italic;
+     font-size: 30px;
+     background-color:black ;
+}
+/*  Universel sellecter  */
+/* *{
+     font-family: fantasy;
+} */
+.group{
+    color: yellow;
+}
+/*  Nesting the elements  */
+#one>p{
+    color: aqua;
+}
+/* sudo selecter */
+p:hover{
+    font-style: monospace;
+}

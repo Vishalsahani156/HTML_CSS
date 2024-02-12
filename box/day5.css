@@ -1,0 +1,18 @@
+/* using by the universel selecter */
+*{
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+    background-color: blueviolet;
+   
+    margin: 0;
+}
+.box{
+    border: 9px solid red;
+    padding: 40px 30px 40px;
+    margin: 40;
+    text-align: center;
+    height: 150px;
+    width: 200px;
+}
